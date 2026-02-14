@@ -1,2 +1,2 @@
 # SGEEGViTDecoding
-After the article is published, the code will be uploaded.
+This repository contains the official PyTorch implementation of SGEEGVIT, a lightweight and high-performance framework designed for decoding multi-class Motor Imagery (MI) intentions from EEG signals. SGEEGVIT achieves state-of-the-art accuracy while maintaining an exceptionally low parameter footprint of approximately, making it ideal for real-time measurement and portable BCI systems.
